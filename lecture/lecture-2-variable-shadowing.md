@@ -177,7 +177,3 @@ console.log(sayHi())            // undefined
 console.log(sayHi(hi))          // 5
 console.log(sayHi('greetings')) // 'greetings'
 ```
-
----
-
-[Next lecture: map vs. forEach](../lecture-3-fun-map-foreach)

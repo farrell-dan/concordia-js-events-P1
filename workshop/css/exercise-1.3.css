@@ -13,8 +13,7 @@ body {
   margin: 0;
   padding: 0;
 }
-body::before {
-  content: "Be a quicker clicker!";
+.time-text {
   color: #fff;
   font-family: "Comic Sans", cursive, sans-serif;
   font-size: 48px;
@@ -22,6 +21,12 @@ body::before {
   left: 24px;
   top: 24px;
 }
+.time-text span {
+  font-size: 60px;
+  color: gold;
+  font-weight: 700;
+}
+
 .result {
   color: fuchsia;
   font-family: "Comic Sans", cursive, sans-serif;

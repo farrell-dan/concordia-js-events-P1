@@ -115,7 +115,3 @@ const greetUser = (hourOfDay) => {
   }
 }
 ```
-
----
-
-[Next lecture: Variable Shadowing](../lecture-2-fun-variable-shadowing)

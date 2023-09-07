@@ -79,7 +79,7 @@ Some events have _default_ actions associated to them.
 
 In most cases handlers are called _before_ the default action takes place.
 
-You can prevent the _default_ action from happening by calling `event.preventDefault();` in the eventListener function.
+You can prevent the _default_ action from happening by calling `event.preventDefault();` in the event handler function.
 
 ---
     
